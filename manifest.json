@@ -1,10 +1,10 @@
 {
     "id": "c024d0b5-4213-47e2-9ff2-f9fa14d2cb55",
     "authors": [
-        " - Made with AMP Config Generator"
+        "petermaffenbergen-bit"
     ],
-    "origin": "https://github.com//AMPTemplates.git",
-    "url": "https://github.com//AMPTemplates",
+    "origin": "https://github.com/petermaffenbergen-bit/WoW-Server.git",
+    "url": "https://github.com/petermaffenbergen-bit/WoW-Server",
     "imagefile": "",
     "prefix": ""
 }
